@@ -50,7 +50,6 @@ you can as well use any other Advertisement Network mentioned here and book Ads 
 - You can Programm a Interface for non technical People to just Throw in the Keywords over a uploaded File or a Website 
 
 
-
 ## Skills and Tools i used for this Project
 - Python Programming
 - Webscraping with CustomSearch JSON API
